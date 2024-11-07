@@ -39,6 +39,7 @@ InceptionResNetV2 can be used for deepfake video detection in several ways:
 - **Efficient architecture**: The combination of Inception modules and residual connections makes InceptionResNetV2 relatively efficient, allowing for real-time video processing in some applications.
 - **Pre-trained models available**: Pre-trained models on large image datasets are readily available, reducing training time and effort for deepfake detection tasks.
 
+## Project Files - https://drive.google.com/drive/folders/1LtE0_iRclqr8xwA3ZZAEaQEZFwhAsYMR?usp=drive_link
 
 
 ![Screenshot 2024-04-15 105749](https://github.com/SaiAkhileshP/Deepfake-Video-Detection-using-InceptionResNetV2/assets/101054891/3de02248-90b4-44e9-85f7-8fdf2d43b69b)
